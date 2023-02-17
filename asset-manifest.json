@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user-list-creator/static/css/main.0ab7a6fc.css",
+    "main.js": "/user-list-creator/static/js/main.3bd6169d.js",
+    "index.html": "/user-list-creator/index.html",
+    "main.0ab7a6fc.css.map": "/user-list-creator/static/css/main.0ab7a6fc.css.map",
+    "main.3bd6169d.js.map": "/user-list-creator/static/js/main.3bd6169d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab7a6fc.css",
+    "static/js/main.3bd6169d.js"
+  ]
+}
